@@ -1,4 +1,4 @@
-# Analysing-fata-police-shootings-in-US-team-project-
+# Analysing-fatal-police-shootings-in-US-team-project-
 
 **Project Goal:** 
 
