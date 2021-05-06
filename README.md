@@ -15,7 +15,6 @@ Examining the various factors that are related to police shootings in the US
 
 **Goal Description** 
 
-Our goal is:
  - To analyse and visualise relationships between the independent variables (like gender, location, arms age etc.) and the shooting incident. We can also explore incidents at different granularities like city or state or the arm used.
  - To identify correlation between independent variables (if any).
  - To predict (using ML if possible) some dependent variables in the dataset based on the independent variables.
@@ -23,13 +22,9 @@ Our goal is:
 
 
 **Part 1**
- - To implement the above goals using BigQuery and SQL
- - To produce a Tableau dashboard with storytelling theme
+ - To implement the above goals using Google Cloud Platform's BigQuery and SQL
+ - To produce a Tableau dashboard with storytelling theme (https://public.tableau.com/profile/shamika.kalwe#!/vizhome/BA775-Team-2A/FinalDashboard?publish=yes)
 
 
 **Part 2**
- - To implement the above goals again with Python programming language
-
-
-**Tableau Dashboard**
-https://public.tableau.com/profile/shamika.kalwe#!/vizhome/BA775-Team-2A/FinalDashboard?publish=yes
+ - To implement the above goals but with Python programming language
