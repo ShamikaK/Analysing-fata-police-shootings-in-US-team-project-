@@ -8,7 +8,7 @@ Examining the various factors that are related to police shootings in the US
 
 #### Team & Course
 
-*Teal Lead:* Shamika Kalwe
+*Team Lead:* Shamika Kalwe
 
 *Team members:* Jaya Nagesh, Selma Sentissi, Cheng Chen, Mingwei Li
 
