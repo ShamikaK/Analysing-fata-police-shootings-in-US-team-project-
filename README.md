@@ -17,10 +17,10 @@ Examining the various factors that are related to police shootings in the US
 
 #### Goal Description
 
- - To analyse and visualise relationships between the independent variables (like gender, location, arms age etc.) and the shooting incident. We can also explore incidents at different granularities like city or state or the arm used.
- - To identify correlation between independent variables (if any).
- - To predict (using ML if possible) some dependent variables in the dataset based on the independent variables.
- - To combine with other datasets to draw deeper conclusions, for e.g. Population dataset (new addition)
+ - To analyse and visualise relationships between the independent variables (like gender, location, arms age etc.) and the shooting incident. We will explore incidents at different granularities like city or state or the arm used.
+ - To identify correlation between independent variables.
+ - To predict (using ML) some dependent variables in the dataset based on the independent variables.
+ - To combine with other datasets to draw deeper conclusions, for e.g. Population dataset
 
 
 #### Part 1
