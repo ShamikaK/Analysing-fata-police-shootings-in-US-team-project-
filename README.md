@@ -9,7 +9,9 @@ Examining the various factors that are related to police shootings in the US
 #### Team & Course
 
 *Teal Lead:* Shamika Kalwe
+
 *Team members:* Jaya Nagesh, Selma Sentissi, Cheng Chen, Mingwei Li
+
 *Course:* Business Analytics Toolbox (BA775), Introduction to Data Analytics (BA780)
 
 
